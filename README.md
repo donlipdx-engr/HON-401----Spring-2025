@@ -19,8 +19,8 @@ In 1955, computer scientist John McCarthy [defined](https://hai-production.s3.am
 
 A major subset of machine learning is _deep learning_ (DL). Deep learning is concerned with performing either regression or classification tasks through a specific model type called an _(artificial) neural network_. Such artificial neural networks mimic the firing of neurons in the (human) brain to perform ML tasks. As Higham (2019) note, neural networks are widely applied to difficult computational tasks such as image recognition, speech recognition, and natural language processing (NLP). 
 
-A neural network consists of _nodes_ that are connected to one another in _layers_ (in more theoretical terms, a neural network can be modeled as a directed graph). A neural network must consist of an _input layer_ (which consist of nodes that contain the neural network's inputs) and an _output layer_ (which yields the prediction made by a neural network). Neural networks often also consist of _hidden layers_ which improve the neural network's ability to infer patterns within data and make accurate predictions. The following is an example of a neural network:
+A neural network consists of _nodes_ that are connected to one another in _layers_ (in more theoretical terms, a neural network can be modeled as a directed graph). A neural network must consist of an _input layer_ (which consist of nodes that contain the neural network's inputs) and an _output layer_ (which yields the prediction made by a neural network). Neural networks often also consist of _hidden layers_ which improve the neural network's ability to infer patterns within data and make accurate predictions. The following is an example of a neural network (courtesy of Geeks for Geeks):
 
-![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230602113310/Neural-Networks-Architecture.png)
+![A neural network consisting of an input layer, two hidden layers, and an output layer](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230602113310/Neural-Networks-Architecture.png)
 
 
