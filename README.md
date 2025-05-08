@@ -15,6 +15,6 @@ Here are the contents of this readme file:
 
 ## An Overview of Artificial Neural Networks (ANN's)
 
-In 1955, computer scientist John McCarthy [defined](https://hai-production.s3.amazonaws.com/files/2020-09/AI-Definitions-HAI.pdf) artificial intelligence as ``the science and engineering of making intelligent machines". 
+In 1955, computer scientist John McCarthy [defined](https://hai-production.s3.amazonaws.com/files/2020-09/AI-Definitions-HAI.pdf) artificial intelligence as "the science and engineering of making intelligent machines". _Machine learning_ is a major subset of AI concerned with building AI models that can learn and make inferences from data. More precisely, machine learning is concerned with making predictions about a _target variable_ (i.e., the output of a model) using data from _feature variables_ (i.e., the inputs of a model). Machine learning models are concerned with either _regression_ tasks (i.e., predicting the value of a continuous variable) or _classification_ tasks (i.e., predicting a category that a data point belongs to). 
 
 
