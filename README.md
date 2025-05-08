@@ -15,4 +15,6 @@ Here are the contents of this readme file:
 
 ## An Overview of Artificial Neural Networks (ANN's)
 
+In 1955, computer scientist John McCarthy [defined](https://hai-production.s3.amazonaws.com/files/2020-09/AI-Definitions-HAI.pdf) artificial intelligence as ``the science and engineering of making intelligent machines". 
+
 
