@@ -23,6 +23,6 @@ A neural network consists of _nodes_ that are connected to one another in _layer
 
 ![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230602113310/Neural-Networks-Architecture.png)
 
-For this project, I focus specifically on neural networks for classification. 
+For this project, I focus specifically on neural networks for classification.
 
 
