@@ -9,5 +9,6 @@ Here are the contents of this readme file:
 
 1. An Overview of Artificial Neural Networks (ANN's)
 2. Cost Function Optimization for Neural Networks -- Stochastic Gradient & Backpropagation
+3. Building & Training a Neural Network -- Iris Dataset Multi-Class Classification
 
 
