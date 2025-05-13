@@ -11,7 +11,6 @@ Here are the contents of this readme file:
 2. Cost Function Optimization for Neural Networks -- Stochastic Gradient & Backpropagation
 3. Building & Training a Neural Network -- Iris Dataset Multi-Class Classification
 4. Convolutional Neural Networks (CNN's) for Image Classification -- CIFAR-10 Dataset
-5. Application -- A Neural Network for Binary Classification (Johns Hopkins Diabetes Dataset)
 
 ## An Overview of Artificial Neural Networks (ANN's)
 
