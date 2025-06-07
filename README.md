@@ -13,6 +13,12 @@ Here are the contents of the project:
 4. A Primer on Convolutional Neural Networks (CNN's) for Multi-Class Image Classification (CIFAR-10 Dataset)
 5. Python Implementation of 3-Layer Neural Network for Multi-Class Classification (Fisher's Iris Dataset)
 
+The full write-up of the project is available on the main branch of this repo. The abstract follows.
+
+## Abstract
+
+*This project is my work for Portland State University's University Honors College (UHC) research course, HON 401. Neural networks are the engine of the current AI boom. Given recent major advancements, we give an introductory overview of deep learning and neural networks, particularly for classification tasks. Moreover, we discuss stochastic gradient descent and backpropagation, i.e., the key algorithms that underlie the training of a neural network, and discuss these algorithms from the standpoint of an optimization problem. We supplement the relevant theory with Python implementations of binary and multi-class classification neural networks.*
+
 
 
 
