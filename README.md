@@ -7,10 +7,10 @@ My name is Don Li, and I'm a student at Portland State University studying compu
 
 Here are the contents of the project:
 
-1. An Overview of Deep Learning and Neural Networks
-2. An Overview of Stochastic Gradient Descent and Backpropagation
+1. Overview of Deep Learning and Neural Networks
+2. Overview of Stochastic Gradient Descent and Backpropagation
 3. Python Implementation of 4-Layer Neural Network for Binary Classification (Higham (2019))
-4. A Primer on Convolutional Neural Networks (CNN's) for Multi-Class Image Classification (CIFAR-10 Dataset)
+4. A Primer on Convolutional Neural Networks (CNN's)
 5. Python Implementation of 3-Layer Neural Network for Multi-Class Classification (Fisher's Iris Dataset)
 
 The full write-up of the project is available on the main branch of this repo. The abstract follows.
