@@ -13,7 +13,7 @@ Here are the contents of the project:
 4. A Primer on Convolutional Neural Networks (CNN's)
 5. Python Implementation of 3-Layer Neural Network for Multi-Class Classification (Fisher's Iris Dataset)
 
-The full write-up of the project is available on the main branch of this repo. The abstract follows.
+This research project culminated in a final presentation, the slides for which are attached in the main branch of this repo. The abstract follows.
 
 ## Abstract
 
