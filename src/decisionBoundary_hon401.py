@@ -21,7 +21,7 @@ y = np.array([1,1,1,1,1,0,0,0,0,0])
 
 # [2] Train an SVM model
 
-# Create and train the SVM model (using a linear kernel)
+# Create and train the SVM model (using a polynomial kernel)
 classifier = svm.SVC(kernel='poly', C=1.0)
 classifier.fit(X, y)
 
