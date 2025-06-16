@@ -120,7 +120,7 @@ plt.plot(loss_history, label='Training Loss')
 plt.xlabel('Iteration')
 plt.ylabel('Value of Cost Function')
 plt.title('Neural Network Training Phase')
-plt.grid(True)
+plt.grid(False)
 plt.legend()
 plt.show()
 
